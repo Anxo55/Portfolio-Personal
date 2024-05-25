@@ -1,2 +1,2 @@
 # Portfolio-Personal
-Desarollo de mi portfolio persomal
+Desarollo de mi portfolio personal
